@@ -127,6 +127,7 @@ export default {
     getProfile () {
       let _this = this
       this.$liff.getProfile().then(function (profile) {
+      alert(profile)
         _this.profile = profile
       }).catch(function (error) {
         alert('Error getting profile: ' + error)
