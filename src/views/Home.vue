@@ -1,20 +1,5 @@
 <template>
   <div>
-    <div class="columns is-mobile has-text-centered">
-      <div class="column is-6">
-        <figure class="image is-3by2">
-          <img src="view.jpg">
-        </figure>
-        <!-- <img src="view.jpg"> -->
-      </div>
-      <div class="column is-6">
-
-        <figure class="image is-3by2">
-          <img src="logo.jpg">
-        </figure>
-        <!-- <img src="logo.jpg"> -->
-      </div>
-    </div>
     <h1 class="title">VueJs Line LIFF Showcase</h1>
     <div class="columns is-mobile">
       <div class="column is-12 has-text-centered buttons">
